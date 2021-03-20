@@ -1,0 +1,26 @@
+\babel@toc {american}{}
+\contentsline {section}{\numberline {1}Introducción}{3}%
+\contentsline {section}{\numberline {2}Base de datos OptDigits}{3}%
+\contentsline {subsection}{\numberline {2.1}Comprensión del problema}{3}%
+\contentsline {subsection}{\numberline {2.2}Selección clase de funciones}{4}%
+\contentsline {subsection}{\numberline {2.3}Fijar los conjuntos de training y test}{4}%
+\contentsline {subsection}{\numberline {2.4}Preprocesamiento de los datos}{4}%
+\contentsline {subsection}{\numberline {2.5}Métrica}{5}%
+\contentsline {subsection}{\numberline {2.6}Técnica de ajuste elegida}{5}%
+\contentsline {subsection}{\numberline {2.7}Regularización}{5}%
+\contentsline {subsection}{\numberline {2.8}Modelos}{5}%
+\contentsline {subsection}{\numberline {2.9}Estimación de hiperparámetros y selección del mejor modelo.}{6}%
+\contentsline {subsection}{\numberline {2.10}Error producido al estimar el Modelo}{7}%
+\contentsline {subsection}{\numberline {2.11}Justificación}{8}%
+\contentsline {section}{\numberline {3}Communities and Crime Data Set}{9}%
+\contentsline {subsection}{\numberline {3.1}Comprensión del problema}{9}%
+\contentsline {subsection}{\numberline {3.2}Selección clase de funciones}{10}%
+\contentsline {subsection}{\numberline {3.3}Fijar los conjuntos de training y test}{10}%
+\contentsline {subsection}{\numberline {3.4}Preprocesamiento de los datos}{10}%
+\contentsline {subsection}{\numberline {3.5}Métrica}{10}%
+\contentsline {subsection}{\numberline {3.6}Técnica de ajuste elegida}{10}%
+\contentsline {subsection}{\numberline {3.7}Regularización}{11}%
+\contentsline {subsection}{\numberline {3.8}Modelos}{11}%
+\contentsline {subsection}{\numberline {3.9}Estimación de hiperparámetros y selección del mejor modelo.}{12}%
+\contentsline {subsection}{\numberline {3.10}Error producido al estimar el Modelo}{13}%
+\contentsline {subsection}{\numberline {3.11}Justificación}{14}%

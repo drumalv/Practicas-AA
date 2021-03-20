@@ -1,0 +1,9 @@
+\babel@toc {american}{}
+\contentsline {section}{\numberline {1}Ejercicio sobre la complejidad de H y el ruido}{3}%
+\contentsline {subsection}{\numberline {1.1}Dibujar gráficas con nube de puntos correspondientes}{3}%
+\contentsline {subsection}{\numberline {1.2}Valoración de la influencia del rudio en la selección de la complejidad de la clase de funciones.}{4}%
+\contentsline {section}{\numberline {2}Modelos Lineales}{8}%
+\contentsline {subsection}{\numberline {2.1}Algoritmo Perceptron}{8}%
+\contentsline {subsection}{\numberline {2.2}Regresión Logística}{9}%
+\contentsline {section}{\numberline {3}Bonus}{11}%
+\contentsline {subsection}{\numberline {3.1}Clasificación de dígitos}{11}%

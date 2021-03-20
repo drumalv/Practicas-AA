@@ -1,0 +1,23 @@
+\babel@toc {american}{}
+\contentsline {section}{\numberline {1}Conocimientos previos}{1}%
+\contentsline {section}{\numberline {2}Estado del arte}{1}%
+\contentsline {section}{\numberline {3}Teoría clásica}{1}%
+\contentsline {subsection}{\numberline {3.1}Definición de variables}{1}%
+\contentsline {subsection}{\numberline {3.2}Pruebas y refutaciones}{1}%
+\contentsline {section}{\numberline {4}Hipótesis}{1}%
+\contentsline {section}{\numberline {5}Simulación de resultados}{1}%
+\contentsline {subsection}{\numberline {5.1}Suposiciones}{1}%
+\contentsline {subsection}{\numberline {5.2}Modelos}{1}%
+\contentsline {section}{\numberline {6}Resultados preliminares}{1}%
+\contentsline {section}{\numberline {7}Resultados postprocesados}{1}%
+\contentsline {subsection}{\numberline {7.1}Valores atípicos}{1}%
+\contentsline {subsection}{\numberline {7.2}Correlaciones}{1}%
+\contentsline {section}{\numberline {8}Búsqueda iterativa de óptimos}{2}%
+\contentsline {subsection}{\numberline {8.1}Algoritmo gradiente descendiente}{2}%
+\contentsline {subsection}{\numberline {8.2}Usar GD en la función E(u,v)}{2}%
+\contentsline {subsection}{\numberline {8.3}Usar GD en la función f(x,y)}{3}%
+\contentsline {subsection}{\numberline {8.4}Conclusión sobre el mínimo global}{5}%
+\contentsline {section}{\numberline {9}Ejercicio sobre Regresión Lineal}{5}%
+\contentsline {subsection}{\numberline {9.1}Estimar modelo de RL sobre los datos proporcionados}{6}%
+\contentsline {subsection}{\numberline {9.2}Ejemplo aumentando la complejidad del modelo lineal}{8}%
+\contentsline {section}{\numberline {10}Bonus}{11}%
